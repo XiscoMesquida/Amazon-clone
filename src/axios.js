@@ -2,7 +2,7 @@ import axios from "axios";
 
 const instance = axios.create({
 
-  baseURL: 'https://clone-d6e85-default-rtdb.europe-west1.firebasedatabase.app'
+  baseURL: 'http://127.0.0.1:5001/clone-d6e85/us-central1/api'
 
 });
 
